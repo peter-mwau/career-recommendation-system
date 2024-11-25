@@ -1,0 +1,6 @@
+numpy
+scipy
+pandas
+gradio
+seaborn
+scikit-learn
